@@ -6,7 +6,7 @@ Write a C++ program that receives input for the number of people in a class. It 
 
 It should output to the screen every repeating age in the data set that is contained in the array.
 
-</br>
+
 ## Question 2.
 Write a C++ program that receives input for the number of people in a class. It should then create an array to receive input of the ages of people in the class.
 
